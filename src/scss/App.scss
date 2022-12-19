@@ -164,6 +164,7 @@ body{
                     pointer-events: none;
                     border-radius: 65px 20px 20px;
                     margin-bottom: 8px;
+                    object-fit: cover;
                 }
 
                 &::after{
@@ -276,6 +277,7 @@ body{
 
             img {
                 border-radius: var(--border);
+                object-fit: cover;
             }
 
             &:not(:last-child) {

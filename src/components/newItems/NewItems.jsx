@@ -10,11 +10,11 @@ export default function Items() {
 
     const obj = {
             "name": "Новогодняя композиция",
-            "price": "450",
-            "fileName": "img/v23Y7aOK.webp",
+            "price": "1300",
+            "fileName": "img/liggPPN6.webp",
             "type": "Композиция",
-            "article": "v23Y7aOK",
-            "material": "Керамика, древесина",
+            "article": "liggPPN6",
+            "material": "Пластик, древесина и др.",
             "size": null
         }
      
